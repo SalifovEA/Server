@@ -1,0 +1,10 @@
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\bin\Debug\GameBUG.dll.config
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\bin\Debug\GameBUG.dll
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\bin\Debug\GameBUG.pdb
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\bin\Debug\EntityFramework.dll
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\bin\Debug\EntityFramework.SqlServer.dll
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\bin\Debug\EntityFramework.xml
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\bin\Debug\EntityFramework.SqlServer.xml
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\obj\Debug\GameBUG.dll
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\obj\Debug\GameBUG.pdb
+d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\obj\Debug\GameBUG.csprojResolveAssemblyReference.cache
