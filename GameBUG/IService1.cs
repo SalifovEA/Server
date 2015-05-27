@@ -24,6 +24,8 @@ namespace GameBUG
         void UserMove(int id, string roomName, Keys key);
         [OperationContract]
         void StartGame(string roomName);
+        [OperationContract]
+        Room[] GetAllRooms();
     }
     public interface ICallbackBug
     {

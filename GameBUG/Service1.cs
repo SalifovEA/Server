@@ -103,8 +103,8 @@ namespace GameBUG
 /// Метод ставит игрока в новую позицию
 /// </summary>
         /// <param name="id"> ид игрока сделавшего ввод</param>
-        /// <param name="currentRoom"> комната в каторой игрок играет</param>
-        /// <param name="newPosition">Позиция куда хочет отправиться игрок</param>
+        /// <param name="currentRoom"> комната в которой игрок играет</param>
+        /// <param name="newPosition"> Позиция куда хочет отправиться игрок</param>
         private void MoveUserPosition(int id, Room currentRoom, int newPosition)
         {
             byte[] map = currentRoom.Map;
@@ -232,6 +232,11 @@ namespace GameBUG
                 }
                 
             }
+        }
+
+        public Room[] GetAllRooms()
+        {
+            return rooms.ToArray();
         }
     }
    

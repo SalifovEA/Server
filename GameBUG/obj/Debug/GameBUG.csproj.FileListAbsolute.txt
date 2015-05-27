@@ -8,3 +8,13 @@ d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\bin\Debug\Enti
 d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\obj\Debug\GameBUG.dll
 d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\obj\Debug\GameBUG.pdb
 d:\Profiles\gevorkyan_ag\Desktop\TeamProject\GameBUG_Room\GameBUG\obj\Debug\GameBUG.csprojResolveAssemblyReference.cache
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\bin\Debug\GameBUG.dll.config
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\bin\Debug\GameBUG.dll
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\bin\Debug\GameBUG.pdb
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\bin\Debug\EntityFramework.dll
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\bin\Debug\EntityFramework.SqlServer.dll
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\bin\Debug\EntityFramework.xml
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\bin\Debug\EntityFramework.SqlServer.xml
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\obj\Debug\GameBUG.csprojResolveAssemblyReference.cache
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\obj\Debug\GameBUG.dll
+D:\Profiles\07070\repo\GameBUG_Room\GameBUG\obj\Debug\GameBUG.pdb
